@@ -1,0 +1,21 @@
+# Task Index
+
+- **A.** NumPy arrays — Greenhouse humidity monitoring — `code/task_a.py`
+- **B.** Vectorization — VAT on one million transactions — `code/task_b.py`
+- **C.** Floating-point errors — Summing money in banking — `code/task_c.py`
+- **D.** Matrix algebra — Floor plan transformation — `code/task_d.py`
+- **E.** Linear systems — Two-loop electrical circuit — `code/task_e.py`
+- **F.** Gaussian elimination and LU — Resistive network with repeated loads — `code/task_f.py`
+- **G.** Iterative methods — Temperature along a rod — `code/task_g.py`
+- **H.** Eigenvalues — Office network node importance — `code/task_h.py`
+- **I.** Bisection and fixed point — Business break-even points — `code/task_i.py`
+- **J.** Newton and secant — True interest rate of a loan — `code/task_j.py`
+- **K.** Nonlinear equations — Overlapping cell-tower coverage — `code/task_k.py`
+- **L.** Interpolation — Missing soil-moisture reading — `code/task_l.py`
+- **M.** Curve fitting — Product demand forecasting — `code/task_m.py`
+- **N.** Numerical differentiation — Acceleration from velocity data — `code/task_n.py`
+- **O.** Numerical integration — Distance travelled from speed readings — `code/task_o.py`
+- **P.** Euler method — Logistic population growth — `code/task_p.py`
+- **Q.** SciPy ODE solver — SIR epidemic model — `code/task_q.py`
+- **R.** Optimization — Minimum-cost vehicle fleet — `code/task_r.py`
+- **S.** Monte Carlo — Server-cluster reliability — `code/task_s.py`
